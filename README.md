@@ -1,11 +1,12 @@
 # mml-renew
 
-Este projeto consiste em um conjunto de atualizações para rodar o Megaman Legends (PC) com melhor qualidade e recursos adicionais.
+This project consists of a set of updates to run Megaman Legends (PC) with improved quality and additional features.
 
-## Instruções de Instalação
+## Installation Instructions
 
-1. Faça a instalação completa do jogo em uma pasta que não exija permissões de administrador (evite a pasta `Program Files`).
-2. Copie o conteúdo da pasta `RAW` para o mesmo diretório onde o arquivo `MegaMan.exe` está localizado.
+1. Perform a complete installation of the game in a folder that does not require administrator permissions (avoid the `Program Files` folder).
+2. Copy the contents of the `RAW` folder to the same directory where the `MegaMan.exe` file is located.
 
-## Créditos
-- Zerrox4 (https://mmls.proboards.com/thread/6159/megaman-legends-pc-windows-aa)
+## Credits
+- Zerrox4
+https://mmls.proboards.com/thread/6159/megaman-legends-pc-windows-aa
